@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/olx_deploy/static/css/main.0c0d1353.chunk.css",
+    "main.js": "/olx_deploy/static/js/main.c2aa0ecc.chunk.js",
+    "main.js.map": "/olx_deploy/static/js/main.c2aa0ecc.chunk.js.map",
+    "runtime-main.js": "/olx_deploy/static/js/runtime-main.f237fa16.js",
+    "runtime-main.js.map": "/olx_deploy/static/js/runtime-main.f237fa16.js.map",
+    "static/js/2.c3b892a4.chunk.js": "/olx_deploy/static/js/2.c3b892a4.chunk.js",
+    "static/js/2.c3b892a4.chunk.js.map": "/olx_deploy/static/js/2.c3b892a4.chunk.js.map",
+    "index.html": "/olx_deploy/index.html",
+    "static/css/main.0c0d1353.chunk.css.map": "/olx_deploy/static/css/main.0c0d1353.chunk.css.map",
+    "static/js/2.c3b892a4.chunk.js.LICENSE.txt": "/olx_deploy/static/js/2.c3b892a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f237fa16.js",
+    "static/js/2.c3b892a4.chunk.js",
+    "static/css/main.0c0d1353.chunk.css",
+    "static/js/main.c2aa0ecc.chunk.js"
+  ]
+}
